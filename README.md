@@ -155,7 +155,7 @@ El proyecto fue diseñado para:
 # 📂 Estructura del proyecto
 
 ```bash
-HouseRentalManagementSystem/
+PlataformaRentaCasas/
 │
 ├── assets/                    # Recursos multimedia
 ├── database/                  # Scripts SQL y base de datos
@@ -193,7 +193,7 @@ HouseRentalManagementSystem/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/HouseRentalManagementSystem.git
+git clone https://github.com/isairey/PlataformaRentaCasas.git
 ```
 
 ---
@@ -201,7 +201,7 @@ git clone https://github.com/isairey/HouseRentalManagementSystem.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd HouseRentalManagementSystem
+cd PlataformaRentaCasas
 ```
 
 ---
