@@ -274,30 +274,6 @@ python main.py
 - Estadísticas de propiedades
 - Análisis administrativo
 
----
-
-# 📸 Vista previa
-
-## 🖥️ Interfaces del sistema
-
-<div align="center">
-
-### 🏠 Dashboard principal
-![Dashboard](screenshots/dashboard.png)
-
-### 🏘️ Gestión de propiedades
-![Properties](screenshots/properties.png)
-
-### 👥 Gestión de inquilinos
-![Tenants](screenshots/tenants.png)
-
-### 📅 Sistema de contratos
-![Contracts](screenshots/contracts.png)
-
-### 💳 Gestión de pagos
-![Payments](screenshots/payments.png)
-
-</div>
 
 ---
 
